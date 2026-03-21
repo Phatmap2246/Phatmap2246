@@ -1,29 +1,81 @@
-### Hi there, I'm Phat Nguyen! 👋
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
-#### 👨‍💻 About Me
-- 🎓 Freshman at **Saigon University (SGU)** majoring in **Artificial Intelligence**.
-- 🚀 Core Member at **Google Developer Groups on Campus - SGU (GDGoC)**.
-- 🌱 I’m currently learning **C++**, **Discrete Mathematics**, and **Data Structures**.
-- 🤖 Interesting in: **AI Projects** (Gold Price Prediction & Market Analysis).
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
+  <span>Hi there, I'm Phat Nguyen!</span>
+</h1>
 
-#### 🛠 Languages and Tools
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="40" height="40"/> </a>
+<h3 align="center">🎓 AI Freshman | 💻 Aspiring Machine Learning Engineer | 🚀 GDGoC Core Member</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;Always+learning+new+things;Love+solving+real-world+problems" alt="Typing SVG" />
+</div>
+
+---
+
+### 🌟 About Me
+
+- 🎓 **Freshman** at **Saigon University (SGU)**, majoring in **Artificial Intelligence**.
+- 🚀 **Core Member** at **Google Developer Groups on Campus - SGU (GDGoC)** – organizing tech events and fostering a developer community.
+- 🤖 Passionate about **AI applications** – currently exploring **Gold Price Prediction & Market Analysis** projects.
+- 🌱 I'm currently deepening my knowledge in **C++**, **Discrete Mathematics**, **Data Structures**, and **Python for Data Science**.
+- ⚡ **Fun fact**: I love combining AI with real-world problems – if it can be predicted, I want to build a model for it!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
 </p>
 
-#### 📊 Github Stats
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phatmap2246&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phatmap2246&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phatmap2246&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-#### 📫 Connect with me
-- 💼 LinkedIn: [Nguyễn Đức Phát](https://www.linkedin.com/in/nguyễn-đức-phát-a9372b39a/)
-- 📧 Personal: nguyenducphat2246@gmail.com
-- 🤝 Work: nguyenducphat2246.work@gmail.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatmap2246&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of my notable works:
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Gold Price Prediction](https://github.com/Phatmap2246/gold-price-prediction) | Time series forecasting using LSTM and macroeconomic indicators. | Python, TensorFlow, Pandas |
+| [Market Analysis Tool](https://github.com/Phatmap2246/market-analysis) | Data pipeline and visualization for financial market trends. | Python, Plotly, Yahoo Finance API |
+
+> 🔗 Check out more in my [repositories](https://github.com/Phatmap2246?tab=repositories).
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyễn-đức-phát-a9372b39a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nguyenducphat2246@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:nguyenducphat2246.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Work%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=100&section=footer" width="100%"/>
+  <sub>💡 *"The future is built by those who learn, unlearn, and relearn."*</sub>
+</div>
