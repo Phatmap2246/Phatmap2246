@@ -56,12 +56,17 @@
 
 Here are some of my notable works:
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Gold Price Prediction](https://github.com/Phatmap2246/gold-price-prediction) | Time series forecasting using LSTM and macroeconomic indicators. | Python, TensorFlow, Pandas |
-| [Market Analysis Tool](https://github.com/Phatmap2246/market-analysis) | Data pipeline and visualization for financial market trends. | Python, Plotly, Yahoo Finance API |
+## 🚀 Featured Projects
 
-> 🔗 Check out more in my [repositories](https://github.com/Phatmap2246?tab=repositories).
+Here are some of my notable works:
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [DSA-And-Algorithmic-Problem-Solving](https://github.com/Phatmap2246/DSA-And-Algorithmic-Problem-Solving) | A comprehensive repository documenting my journey in mastering Data Structures and Algorithms, focusing on logic building and performance optimization. | C++, Xcode, Git |
+| [Goldie AI: Time-Series Predictor](https://github.com/Phatmap2246/gold-price-prediction-Goldie-AI-) | Deep learning model leveraging LSTM networks and macroeconomic data to forecast gold price trends with high accuracy. | Python, TensorFlow, Pandas |
+
+🔗 _Check out more in my [repositories](https://github.com/Phatmap2246?tab=repositories)._
+
 
 ---
 
@@ -77,5 +82,5 @@ Here are some of my notable works:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=100&section=footer" width="100%"/>
-  <sub>💡 *"The future is built by those who learn, unlearn, and relearn."*</sub>
+  <sub>💡 The future is built by those who learn, unlearn, and relearn."</sub>
 </div>
