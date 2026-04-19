@@ -7,7 +7,7 @@
   <span>Hi there, I'm Phat Nguyen!</span>
 </h1>
 
-<h3 align="center">🎓 AI Freshman | 💻 Aspiring Machine Learning Engineer | 🚀 GDGoC Core Member</h3>
+<h3 align="center"> AI Freshman |  Aspiring Machine Learning Engineer |  GDGoC Core Member</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;Always+learning+new+things;Love+solving+real-world+problems" alt="Typing SVG" />
@@ -17,11 +17,11 @@
 
 ### 🌟 About Me
 
-- 🎓 **Freshman** at **Saigon University (SGU)**, majoring in **Artificial Intelligence**.
-- 🚀 **Core Member** at **Google Developer Groups on Campus - SGU (GDGoC)** – organizing tech events and fostering a developer community.
-- 🤖 Passionate about **AI applications** – currently exploring **Gold Price Prediction & Market Analysis** projects.
-- 🌱 I'm currently deepening my knowledge in **C++**, **Discrete Mathematics**, **Data Structures**, and **Python for Data Science**.
-- ⚡ **Fun fact**: I love combining AI with real-world problems – if it can be predicted, I want to build a model for it!
+-  **Freshman** at **Saigon University (SGU)**, majoring in **Artificial Intelligence**.
+-  **Core Member** at **Google Developer Groups on Campus - SGU (GDGoC)** – organizing tech events and fostering a developer community.
+-  Passionate about **AI applications** – currently exploring **Gold Price Prediction & Market Analysis** projects.
+-  I'm currently deepening my knowledge in **C++**, **Discrete Mathematics**, **Data Structures**, and **Python for Data Science**.
+-  **Fun fact**: I love combining AI with real-world problems – if it can be predicted, I want to build a model for it!
 
 ---
 
@@ -52,11 +52,8 @@
 
 ---
 
-### 🚀 Featured Projects
 
-Here are some of my notable works:
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 Here are some of my notable works:
 
