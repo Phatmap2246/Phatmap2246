@@ -8,9 +8,8 @@
 </h1>
 
 <h3 align="center"> AI Freshman |  Aspiring Machine Learning Engineer |  GDGoC Core Member</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;Always+learning+new+things;Love+solving+real-world+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI;Always+learning+new+things;Love+solving+real-world+problems" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,23 +21,45 @@
 -  Passionate about **AI applications** – currently exploring **Gold Price Prediction & Market Analysis** projects.
 -  I'm currently deepening my knowledge in **C++**, **Discrete Mathematics**, **Data Structures**, and **Python for Data Science**.
 -  **Fun fact**: I love combining AI with real-world problems – if it can be predicted, I want to build a model for it!
-
 ---
+## 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
+###  AI & Machine Learning
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+###  Data Analysis & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+###  Databases & SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-239120?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+###  Development & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -53,14 +74,15 @@
 ---
 
 
-##  Featured Projects
+##  Featured Projects and Subjects
 
 Here are some of my notable works:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [DSA-And-Algorithmic-Problem-Solving](https://github.com/Phatmap2246/DSA-And-Algorithmic-Problem-Solving) | A comprehensive repository documenting my journey in mastering Data Structures and Algorithms, focusing on logic building and performance optimization. | C++, Xcode, Git |
-| [Goldie AI: Time-Series Predictor](https://github.com/Phatmap2246/gold-price-prediction-Goldie-AI-) | Deep learning model leveraging LSTM networks and macroeconomic data to forecast gold price trends with high accuracy. | Python, TensorFlow, Pandas |
+| [DSA-And-Algorithmic-Problem-Solving](https://github.com/Phatmap2246/DSA-And-Algorithmic-Problem-Solving) | A comprehensive repository documenting my journey in mastering Data Structures and Algorithms, focusing on logic building and performance optimization. | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> |
+| [Goldie AI: Time-Series Predictor](https://github.com/Phatmap2246/gold-price-prediction-Goldie-AI-) | Deep learning model leveraging LSTM networks and macroeconomic data to forecast gold price trends with high accuracy. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> |
+| [SQL SELF-STUDY](https://github.com/Phatmap2246/SQL-SELF-STUDY) | A comprehensive SQL practice repository with **3 database schemas** (Student Management, Project Management, Flight Management). Includes **50+ complex queries**, Relational Algebra, CTE, Subqueries, and advanced joins. | <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/T--SQL-239120?style=flat&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SSMS-0078D4?style=flat&logo=microsoft&logoColor=white"/> |
 
 🔗 _Check out more in my [repositories](https://github.com/Phatmap2246?tab=repositories)._
 
